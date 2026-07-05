@@ -1,5 +1,5 @@
 const WEBSITE =
-"https://juicyjulia05";
+"https://www.stacked.com/@juicyjulia05/membership";
 
 const modal =
 document.getElementById("modal");
@@ -24,7 +24,7 @@ document
 .getElementById("no")
 .onclick=()=>{
 
-modal.style.display="none";
+modal.style.display="https://www.google.com";
 
 }
 
