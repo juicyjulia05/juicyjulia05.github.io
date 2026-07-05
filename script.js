@@ -24,7 +24,7 @@ document
 .getElementById("no")
 .onclick=()=>{
 
-window.location.href="https://www.google.com/search";
+window.location.href="https://www.google.com";
 
 }
 
