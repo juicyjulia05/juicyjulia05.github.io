@@ -71,16 +71,22 @@ font-size:18px;
 
 button {
     cursor: pointer;
-    width: 180px;
-    height: 70px;
-    font-size: 22px;
+    padding: 18px 45px;
+    font-size: 18px;
     border: none;
     border-radius: 14px;
     background: var(--button);
     color: var(--buttonText);
     font-weight: bold;
     transition: .25s;
+}
+
+.buttons button {
+    width: 180px;
+    height: 70px;
     white-space: nowrap;
+    font-size: 22px;
+    padding: 0;
 }
 
 button:hover{
